@@ -1,0 +1,84 @@
+.currentCardWrap {
+  width: 100%;
+}
+
+.currentCardWrapTitle {
+  margin-bottom: 4rem;
+  font-size: 3rem;
+  font-weight: 600;
+  color: #000;
+}
+
+.currentCard {
+  max-width: 45rem;
+  min-height: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2rem 6rem;
+  margin: 0 auto;
+  border-radius: 2rem; 
+  border: 0.2rem solid #fff;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 1rem 1rem 1.5rem rgba(34, 60, 80, 0.2);
+}
+
+.currentCardWord {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 500;
+  color: #000;
+}
+
+.currentCardBtnsWrap {
+  width: 28rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.currentCardReset {
+  padding: 1rem 2rem;
+  margin-bottom: 4rem;
+  border: 0.1rem solid #fff;
+  border-radius: 2rem; 
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #000;
+  box-shadow: 0 1rem 1rem 0 rgba(34, 60, 80, 0.3);
+  cursor: pointer;
+}
+
+.currentCardButtonYes,
+.currentCardButtonNo {
+  min-width: 12.8rem;
+  padding: 1rem 4rem 1rem 2rem;
+  border: 0.1rem solid #fff;
+  border-radius: 2rem; 
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #000;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  will-change: background-position;
+  transition: background-position 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.currentCardButtonYes {
+  background-image: url("../../assets/images/thumb-up.svg");
+  background-position: 90% 34%;
+
+  &:hover {
+    background-position: 90% 18%;
+  }
+}
+
+.currentCardButtonNo {
+  background-image: url("../../assets/images/thumb-down.svg");
+  background-position: 90% 62%;
+
+  &:hover {
+    background-position: 90% 78%;
+  }
+}

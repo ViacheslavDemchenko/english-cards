@@ -1,0 +1,52 @@
+.wordsListTableList {
+
+}
+
+.wordsListTabletTitle {
+  margin-bottom: 4rem;
+  font-size: 3rem;
+  font-weight: 600;
+  color: #000;
+}
+
+.wordsListTableContent {
+  display: grid;
+  grid-template-rows: repeat(1, 1fr);
+  grid-template-columns: repeat(15, 1fr);
+  gap: 0.2rem;
+}
+
+.wordsListTableItem {
+  padding: 1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #000;
+  backdrop-filter: blur(1rem);
+  background: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.4rem 0.8rem 0 rgba(34, 60, 80, 0.2);
+}
+
+.wordsListTabletBtnsWrap {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+}
+
+.wordsListTableBtnLearnedWords,
+.wordsListTableBtnUnlearnedWords {
+  padding: 1rem 2rem;
+  border: 0.1rem solid #fff;
+  border-radius: 2rem; 
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #000;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  box-shadow: 0 1rem 1rem 0 rgba(34, 60, 80, 0.3);
+  cursor: pointer;
+}
+
+.wordsListTableBtnLearnedWords {
+  margin-right: 4rem;
+}

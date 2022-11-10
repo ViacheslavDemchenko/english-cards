@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "en": "word",
+    "ru": "слово",
+    "learned": true
+  },
+  {
+    "id": 2,
+    "en": "say",
+    "ru": "сказать",
+    "learned": false
+  },
+  {
+    "id": 3,
+    "en": "pay",
+    "ru": "платить",
+    "learned": false
+  },
+  {
+    "id": 4,
+    "en": "walk",
+    "ru": "идти",
+    "learned": false
+  },
+  {
+    "id": 5,
+    "en": "think",
+    "ru": "думать",
+    "learned": true
+  },
+  {
+    "id": 6,
+    "en": "work",
+    "ru": "работать",
+    "learned": false
+  },
+  {
+    "id": 7,
+    "en": "write",
+    "ru": "писать",
+    "learned": true
+  },
+  {
+    "id": 8,
+    "en": "eat",
+    "ru": "кушать",
+    "learned": false
+  },
+  {
+    "id": 9,
+    "en": "take",
+    "ru": "брать",
+    "learned": true
+  },
+  {
+    "id": 10,
+    "en": "wait",
+    "ru": "ждать",
+    "learned": false
+  },
+  {
+    "id": 11,
+    "en": "make",
+    "ru": "делать",
+    "learned": true
+  },
+  {
+    "id": 12,
+    "en": "read",
+    "ru": "читать",
+    "learned": false
+  },
+  {
+    "id": 13,
+    "en": "take",
+    "ru": "брать",
+    "learned": false
+  },
+  {
+    "id": 14,
+    "en": "drive",
+    "ru": "водить машину",
+    "learned": true
+  },
+  {
+    "id": 15,
+    "en": "cook",
+    "ru": "готовить",
+    "learned": false
+  },
+  {
+    "id": 16,
+    "en": "dive",
+    "ru": "нырять",
+    "learned": false
+  },
+  {
+    "id": 17,
+    "en": "swim",
+    "ru": "плавать",
+    "learned": true
+  },
+  {
+    "id": 18,
+    "en": "run",
+    "ru": "бегать",
+    "learned": false
+  },
+  {
+    "id": 19,
+    "en": "jump",
+    "ru": "прыгать",
+    "learned": false
+  },
+  {
+    "id": 20,
+    "en": "build",
+    "ru": "строить",
+    "learned": true
+  },
+  {
+    "id": 21,
+    "en": "pen",
+    "ru": "ручка",
+    "learned": true
+  },
+  {
+    "id": 22,
+    "en": "pencil",
+    "ru": "карандаш",
+    "learned": false
+  },
+  {
+    "id": 23,
+    "en": "table",
+    "ru": "стол",
+    "learned": false
+  },
+  {
+    "id": 24,
+    "en": "chair",
+    "ru": "стул",
+    "learned": false
+  },
+  {
+    "id": 25,
+    "en": "bite",
+    "ru": "кусать",
+    "learned": true
+  },
+  {
+    "id": 26,
+    "en": "cut",
+    "ru": "резать",
+    "learned": false
+  },
+  {
+    "id": 27,
+    "en": "cake",
+    "ru": "торт",
+    "learned": true
+  },
+  {
+    "id": 28,
+    "en": "drink",
+    "ru": "пить",
+    "learned": false
+  },
+  {
+    "id": 29,
+    "en": "water",
+    "ru": "вода",
+    "learned": true
+  },
+  {
+    "id": 30,
+    "en": "juice",
+    "ru": "сок",
+    "learned": false
+  },
+  {
+    "id": 31,
+    "en": "bake",
+    "ru": "печь",
+    "learned": true
+  },
+  {
+    "id": 32,
+    "en": "book",
+    "ru": "книга",
+    "learned": false
+  },
+  {
+    "id": 33,
+    "en": "notebook",
+    "ru": "тетрадь",
+    "learned": false
+  },
+  {
+    "id": 34,
+    "en": "fly",
+    "ru": "летать",
+    "learned": true
+  },
+  {
+    "id": 35,
+    "en": "glass",
+    "ru": "стакан",
+    "learned": false
+  },
+  {
+    "id": 36,
+    "en": "car",
+    "ru": "машина",
+    "learned": false
+  },
+  {
+    "id": 37,
+    "en": "building",
+    "ru": "здание",
+    "learned": true
+  },
+  {
+    "id": 38,
+    "en": "door",
+    "ru": "дверь",
+    "learned": false
+  },
+  {
+    "id": 39,
+    "en": "window",
+    "ru": "окно",
+    "learned": false
+  },
+  {
+    "id": 40,
+    "en": "get",
+    "ru": "получать",
+    "learned": true
+  },
+  {
+    "id": 41,
+    "en": "train",
+    "ru": "поезд",
+    "learned": true
+  },
+  {
+    "id": 42,
+    "en": "bus",
+    "ru": "автобус",
+    "learned": false
+  },
+  {
+    "id": 43,
+    "en": "pay",
+    "ru": "платить",
+    "learned": false
+  },
+  {
+    "id": 44,
+    "en": "for",
+    "ru": "для",
+    "learned": false
+  },
+  {
+    "id": 45,
+    "en": "from",
+    "ru": "из",
+    "learned": true
+  },
+  {
+    "id": 46,
+    "en": "hot",
+    "ru": "горячий",
+    "learned": false
+  },
+  {
+    "id": 47,
+    "en": "but",
+    "ru": "но",
+    "learned": true
+  },
+  {
+    "id": 48,
+    "en": "what",
+    "ru": "что",
+    "learned": false
+  },
+  {
+    "id": 49,
+    "en": "some",
+    "ru": "некоторый",
+    "learned": true
+  },
+  {
+    "id": 50,
+    "en": "can",
+    "ru": "может",
+    "learned": false
+  },
+  {
+    "id": 51,
+    "en": "time",
+    "ru": "может",
+    "learned": true
+  },
+  {
+    "id": 52,
+    "en": "if",
+    "ru": "если",
+    "learned": false
+  },
+  {
+    "id": 53,
+    "en": "how",
+    "ru": "как",
+    "learned": false
+  },
+  {
+    "id": 54,
+    "en": "set",
+    "ru": "задавать",
+    "learned": true
+  },
+  {
+    "id": 55,
+    "en": "want",
+    "ru": "хотеть",
+    "learned": false
+  },
+  {
+    "id": 56,
+    "en": "air",
+    "ru": "воздух",
+    "learned": false
+  },
+  {
+    "id": 57,
+    "en": "port",
+    "ru": "порт",
+    "learned": true
+  },
+  {
+    "id": 58,
+    "en": "big",
+    "ru": "большой",
+    "learned": false
+  },
+  {
+    "id": 59,
+    "en": "small",
+    "ru": "маленький",
+    "learned": false
+  },
+  {
+    "id": 60,
+    "en": "add",
+    "ru": "добавлять",
+    "learned": true
+  },
+  {
+    "id": 61,
+    "en": "even",
+    "ru": "даже",
+    "learned": true
+  },
+  {
+    "id": 62,
+    "en": "land",
+    "ru": "земля",
+    "learned": false
+  },
+  {
+    "id": 63,
+    "en": "here",
+    "ru": "здесь",
+    "learned": false
+  },
+  {
+    "id": 64,
+    "en": "people",
+    "ru": "люди",
+    "learned": false
+  },
+  {
+    "id": 65,
+    "en": "man",
+    "ru": "мужчина",
+    "learned": true
+  },
+  {
+    "id": 66,
+    "en": "women",
+    "ru": "женщина",
+    "learned": false
+  },
+  {
+    "id": 67,
+    "en": "change",
+    "ru": "менять",
+    "learned": true
+  },
+  {
+    "id": 68,
+    "en": "picture",
+    "ru": "картина",
+    "learned": false
+  },
+  {
+    "id": 69,
+    "en": "mother",
+    "ru": "мать",
+    "learned": true
+  },
+  {
+    "id": 70,
+    "en": "father",
+    "ru": "отец",
+    "learned": false
+  },
+  {
+    "id": 71,
+    "en": "world",
+    "ru": "мир",
+    "learned": true
+  },
+  {
+    "id": 72,
+    "en": "new",
+    "ru": "новый",
+    "learned": false
+  },
+  {
+    "id": 73,
+    "en": "part",
+    "ru": "часть",
+    "learned": false
+  },
+  {
+    "id": 74,
+    "en": "get",
+    "ru": "получать",
+    "learned": true
+  },
+  {
+    "id": 75,
+    "en": "live",
+    "ru": "жить",
+    "learned": false
+  },
+  {
+    "id": 76,
+    "en": "life",
+    "ru": "жизнь",
+    "learned": false
+  },
+  {
+    "id": 77,
+    "en": "after",
+    "ru": "после",
+    "learned": true
+  },
+  {
+    "id": 78,
+    "en": "year",
+    "ru": "год",
+    "learned": false
+  },
+  {
+    "id": 79,
+    "en": "month",
+    "ru": "месяц",
+    "learned": false
+  },
+  {
+    "id": 80,
+    "en": "day",
+    "ru": "день",
+    "learned": true
+  },
+  {
+    "id": 81,
+    "en": "good",
+    "ru": "хороший",
+    "learned": true
+  },
+  {
+    "id": 82,
+    "en": "give",
+    "ru": "давать",
+    "learned": false
+  },
+  {
+    "id": 83,
+    "en": "under",
+    "ru": "под",
+    "learned": false
+  },
+  {
+    "id": 84,
+    "en": "name",
+    "ru": "имя",
+    "learned": false
+  },
+  {
+    "id": 85,
+    "en": "very",
+    "ru": "очень",
+    "learned": true
+  },
+  {
+    "id": 86,
+    "en": "just",
+    "ru": "только",
+    "learned": false
+  },
+  {
+    "id": 87,
+    "en": "help",
+    "ru": "помогать",
+    "learned": true
+  },
+  {
+    "id": 88,
+    "en": "low",
+    "ru": "низкий",
+    "learned": false
+  },
+  {
+    "id": 89,
+    "en": "line",
+    "ru": "линия",
+    "learned": true
+  },
+  {
+    "id": 90,
+    "en": "differ",
+    "ru": "отличаться",
+    "learned": false
+  },
+  {
+    "id": 91,
+    "en": "before",
+    "ru": "до",
+    "learned": true
+  },
+  {
+    "id": 92,
+    "en": "move",
+    "ru": "двигать",
+    "learned": false
+  },
+  {
+    "id": 93,
+    "en": "same",
+    "ru": "также",
+    "learned": false
+  },
+  {
+    "id": 94,
+    "en": "all",
+    "ru": "все",
+    "learned": true
+  },
+  {
+    "id": 95,
+    "en": "like",
+    "ru": "нравиться",
+    "learned": false
+  },
+  {
+    "id": 96,
+    "en": "long",
+    "ru": "длинный",
+    "learned": false
+  },
+  {
+    "id": 97,
+    "en": "number",
+    "ru": "номер",
+    "learned": true
+  },
+  {
+    "id": 98,
+    "en": "call",
+    "ru": "звонить",
+    "learned": false
+  },
+  {
+    "id": 99,
+    "en": "find",
+    "ru": "искать",
+    "learned": false
+  },
+  {
+    "id": 100,
+    "en": "stand",
+    "ru": "стоять",
+    "learned": true
+  }
+]
